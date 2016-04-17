@@ -1,0 +1,25 @@
+{
+  "name": "super-tiny-compiler",
+  "version": "1.0.0",
+  "description": "super tiny compiler written in typescript",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bpryer/super-tiny-compiler.git"
+  },
+  "keywords": [
+    "compiler",
+    "typescript",
+    "node",
+    "javascript"
+  ],
+  "author": "brent pryer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bpryer/super-tiny-compiler/issues"
+  },
+  "homepage": "https://github.com/bpryer/super-tiny-compiler#readme"
+}
