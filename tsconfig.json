@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noImplicitAny": false,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "./build",
+        "allowJs": true,
+        "sourceMap": true,
+        "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules",
+        "tyings",
+        ".vscode",
+        "build"
+    ]
+}
